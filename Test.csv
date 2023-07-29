@@ -1,4 +1,4 @@
-Name;Price;Image
-wow;4.99;test.png
-nice;49.99;boat.png
-hey;9.99;cool.png
+Name;Price;Colors;Image
+wow;4.99;blue;test.png
+nice;49.99;blue, red;boat.png
+hey;9.99;red, yellow;cool.png
